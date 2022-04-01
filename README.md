@@ -5,7 +5,7 @@ Replace The Following Line In the following Html Files -
 It shows like this before editing-
  
 ```
- Link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" }
+<Link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 ```
  And make it like this
 
