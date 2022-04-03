@@ -16,7 +16,7 @@ It shows like this before editing-
 ```
 
    
-If u have any dought mail is at -
+If u have any dought mail us at -
 <a href="mailto:bibhabbarua@gmail.com">
 ```
 BlazingInfernoDragon123 Mail
